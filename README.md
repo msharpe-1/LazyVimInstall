@@ -63,7 +63,7 @@ Finally, install [Scoop](https://scoop.sh/) to easily manage CLI utilities like 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
-scoop install tree-sitter fd
+scoop install tree-sitter fd ripgrep
 
 ```
 
