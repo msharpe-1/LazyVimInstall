@@ -73,4 +73,4 @@ scoop install tree-sitter fd
 
 Once finished, simply type `nvim` in your terminal. LazyVim will automatically start downloading the rest of its plugins.
 
-Add -command "nvim" to your Powershell desktop shortcut target and set the 'Start in' folder to your desired location.
+Add -command "nvim" to your Powershell desktop shortcut target e.g. C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -command "nvim" and set the 'Start in' folder to your desired location.
