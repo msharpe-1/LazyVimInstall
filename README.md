@@ -33,7 +33,7 @@ oh-my-posh font install
 
 ```
 
-*> **Note:** After running the command above, select a font like "JetBrainsMono" from the list and update your Terminal settings to use it.*
+*> **Note:** After running the command above, select a font like "FiraCode Nerd Font Mono" from the list and update your Terminal settings to use it.*
 
 ### 4. Install Compilers and Tools
 
